@@ -1,0 +1,36 @@
+.header {
+    text-align: center;
+    padding: 20px;
+    background-color: goldenrod;
+    width: 100%;
+    margin: 0px;
+}
+.header h2, .header p {
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    letter-spacing: 2px;
+}
+.body button {
+    margin-top: 20px;
+    letter-spacing: 2px;
+    width: 120px;
+    font-size: 20px;
+}
+.body {
+    background-color: palegoldenrod;
+    height: 700px;
+}
+.body h4 {
+    margin-top: 20px;
+    color: gray;
+}
+.footer {
+    text-align: center;
+    background-color: goldenrod;
+    padding: 20px;
+    padding-bottom: 60px;
+}
+.footer h3 {
+    color: white;
+    font-family: 'Outfit', sans-serif;
+}
